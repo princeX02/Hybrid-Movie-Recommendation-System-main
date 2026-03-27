@@ -343,9 +343,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Sneakyboss221/hybrid-movie-recommendation-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Sneakyboss221/hybrid-movie-recommendation-system/discussions)
-- **Email**: Sneakyboss221@gmail.com
+- **Issues**: [GitHub Issues](https://github.com/princeX02/hybrid-movie-recommendation-system/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/princeX02/hybrid-movie-recommendation-system/discussions)
+- **Email**: princechaudhary4366@gmail.com
 
 ## 🗺️ Roadmap
 
@@ -362,21 +362,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Batch processing capabilities
 - [ ] Performance optimizations
 
-## 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/Sneakyboss221/hybrid-movie-recommendation-system)
-![GitHub forks](https://img.shields.io/github/forks/Sneakyboss221/hybrid-movie-recommendation-system)
-![GitHub issues](https://img.shields.io/github/issues/Sneakyboss221/hybrid-movie-recommendation-system)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Sneakyboss221/hybrid-movie-recommendation-system)
-![GitHub contributors](https://img.shields.io/github/contributors/Sneakyboss221/hybrid-movie-recommendation-system)
 
----
 
-<div align="center">
+**Made by Prince Chaudhary**
 
-**Made by Sneaky**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneakyboss221)
 
 
 **⭐ Star this repository if you found it helpful!**
